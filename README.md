@@ -1,22 +1,35 @@
-# Women's T20 World Cup Power BI Dashboard
+# Women's T20 World Cup Analysis Dashboard
 
 ![Dashboard Preview](dashboard.png)
 
-A Power BI dashboard analyzing key statistics from the ICC Women's T20 World Cup dataset.
+Power BI dashboard analyzing ICC Women's T20 World Cup match statistics to identify scoring trends and team performance patterns.
 
-## Dashboard Overview
-This report visualizes tournament data to highlight team performance and scoring trends.
+---
 
-### Key Insights Visualized
-- Total tournament score, matches, and balls faced
-- Runs distribution by country
-- Player scoring distribution
-- Team performance trends
-- Average economy rates
+## Overview
+This dashboard explores match data from the ICC Women's T20 World Cup using interactive visualizations to highlight key tournament insights.
+
+---
+
+## Key Insights
+- Distribution of total runs scored by country
+- Player scoring patterns and contribution
+- Match-level performance trends
+- Average bowling economy rates
+
+---
 
 ## Tools Used
 - Power BI
 - Data Visualization
 - Exploratory Data Analysis
-  
-Note: The original `.pbix` project file is unavailable. The repository includes a screenshot of the completed dashboard created for academic analysis.
+
+---
+
+## Dataset
+Public dataset containing Women's T20 World Cup match statistics.
+
+---
+
+## Project Status
+Original `.pbix` file is unavailable. The repository contains the final dashboard screenshot created during academic analysis.
