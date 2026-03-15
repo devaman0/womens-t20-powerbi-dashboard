@@ -19,3 +19,5 @@ This report visualizes tournament data to highlight team performance and scoring
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+
+Note: The original `.pbix` project file is unavailable. The repository includes a screenshot of the completed dashboard created for academic analysis.
