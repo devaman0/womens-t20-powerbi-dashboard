@@ -1,4 +1,6 @@
-# Women's T20 World Cup 2025 – Power BI Analysis Dashboard
+# Women's T20 World Cup Power BI Dashboard
+
+![Dashboard Preview](dashboard.png)
 
 A Power BI dashboard analyzing key statistics from the ICC Women's T20 World Cup dataset.
 
@@ -16,8 +18,5 @@ This report visualizes tournament data to highlight team performance and scoring
 - Power BI
 - Data Visualization
 - Exploratory Data Analysis
-
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
+  
 Note: The original `.pbix` project file is unavailable. The repository includes a screenshot of the completed dashboard created for academic analysis.
